@@ -7,5 +7,4 @@ let random = Math.floor(Math.random);
 
 let mod = 4%30;
 
-let max = 
-
+let max = Math.max(2, 3, 5, 10, 20);
