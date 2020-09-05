@@ -3,4 +3,4 @@ let var1 = 2
 let var2 = 31;
 
 
-var random = Math.random
+let random = Math.floor(math.random)
